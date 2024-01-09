@@ -1,2 +1,2 @@
 # web123
-nothig
+print("hello world")
